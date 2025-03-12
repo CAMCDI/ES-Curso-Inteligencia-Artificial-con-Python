@@ -1,1 +1,5 @@
-# ES-Curso-Inteligencia-Artificial-con-Python
+# curso de inteligencia artificial con python
+
+## Introduccion
+
+
