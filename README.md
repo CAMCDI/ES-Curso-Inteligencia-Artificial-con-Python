@@ -1,5 +1,11 @@
 # curso de inteligencia artificial con python
 
-## Introduccion
+## 1. Introduccion
+
+## 2. 
+
+## 3. 
+
+## 4.
 
 
